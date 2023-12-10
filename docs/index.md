@@ -81,8 +81,10 @@ __The Church of Jesus Christ of Latter-day Saints__, Los Angele, California
 
 ### Coding Language
 - R, SQL, Python
+
 ### Office Software
 - Word Doc, Excel, PowerPoint
+
 ### Language
 - Chinese Mandarin (Native), English (Fluent)
 

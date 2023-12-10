@@ -79,11 +79,11 @@ __The Church of Jesus Christ of Latter-day Saints__, Los Angele, California
 
 ## Skills
 
-- Coding Language: R, SQL, Python
+Coding Language: R, SQL, Python
 
-- Office Software: Word Doc, Excel, PowerPoint
+Office Software: Word Doc, Excel, PowerPoint
 
-- Language: Chinese Mandarin (Native), English (Fluent)
+Language: Chinese Mandarin (Native), English (Fluent)
 
 
 

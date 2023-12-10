@@ -6,10 +6,9 @@ title: Xinyuan Chen's Resume
 Full time student of the Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="che20005@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/in/xinyuan778/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href=" ">che20005@byui.edu</a>
+| <a href=" ">(208)948-7102</a>
+| <a href="https://www.linkedin.com/in/xinyuan778/">https://www.linkedin.com/in/xinyuan778/</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -28,58 +27,61 @@ __Grant__:
 Brigham Young University -Idaho Grant $582 per semester.
 
 
-## Related Experience
+## Work History
 
-### Internships
+### Chinese Tutor
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - July 2023`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Mentored and guided 10-12 students weekly to enhance student Chinese pronunciation, grammar, reading, and writing skills, resulting in notable improvements for 20 students.
+- Applied various teaching techniques based on individualized learning preference and strengths students by limited students' homework and class preparation time by 1 hour.
+- Guided students in exam preparation and homework assignments, achieving 93% or higher course performance.
 
-### Data Science Lead
+### Manicurists
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`March 2020 - August 2020`
+__521 Nail Salon__, Hebei, China
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Delivered personalized nail services, catering to preferences and budgets of 25 customers per week.
+- Managed a comprehensive inventory comprising more than 40 different nail supplies, including but not limited to polishes, gels, nail tools, and other accessories.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Shopping Guide
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`March 2018 - August 2018`
+__Cuiruan Trading Co.__, Hebei, China
 
-### Data Science Consulting Team
+- Facilitated product return and exchanges and addressed concerns relating to discount offers, leading to 8% increased in sales.
+- Managed product inventory and maintained meticulous daily sales records, utilizing both booklet and Excel.
+- Achieved and maintained sales performance of nearly $2,500 in sales per week.
+- Resolved issues related to product returns over 5 times/week.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Service Experience
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Student Mentor
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`April 2022 - June 2022`
+__Heber J. Grand__, Rexburg, Idaho
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Provided one-on-one support to two freshmen student help students adapting to college life and ensuring a smooth transition.
+- Delivered tailored guidance and resources, ensuring mentees accomplished grades of 70% or higher.
+- Engaged in weekly meetings and exchanges with fellow mentors, contributing to personal development and mentorship responsibilities.
 
+###  Full-time Representative
 
-## Service and Work History
+`September 2019 - February 2021`
+__The Church of Jesus Christ of Latter-day Saints__, Los Angele, California
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Led 5-7 tours per day, offering informative experiences to individuals, youth groups, and families visiting the Visitors Center.
+- Hosted multiple events with audiences exceeding 100 attendees, ensuring memorable and engaging interactions.
+- Controlled and responded to an average of 30 daily online inquiries, addressing concerns through phone calls and chat support.
+- Collaborated with 8 international representatives, contributing to various work assignments and promoting a global perspective.
 
+## Skills
 
-`2023-2025`
-__Service Missionary__, South Africa
+__Coding Language__ R, SQL, Python
+__Office Software__ Word Doc, Excel, PowerPoint
+__Language__ Chinese Mandarin (Native), English (Fluent)
 
 
 
